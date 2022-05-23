@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T15:04:52.717Z" agent="5.0 (X11)" etag="iN4vhH09i-gRkK6FTpXr" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T15:09:20.338Z" agent="5.0 (X11)" etag="_x6RrCMOX7_XOJYPB11Z" version="18.1.1" type="github">
   <diagram id="cgcDBANznVIjWBu-qI0g" name="Page-1">
     <mxGraphModel dx="3213" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
             <mxPoint x="15" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DzccVoENs5ZmWSwi9zG2-36" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;fontColor=#06570B;strokeColor=#FFE6CC;strokeWidth=8;fillColor=#fff2cc;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qC28thdIJMezb9HJE6zI-2" target="DzccVoENs5ZmWSwi9zG2-7">
+        <mxCell id="DzccVoENs5ZmWSwi9zG2-36" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=22;fontColor=#06570B;strokeColor=#FFE6CC;strokeWidth=8;fillColor=#fff2cc;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qC28thdIJMezb9HJE6zI-2" target="DzccVoENs5ZmWSwi9zG2-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1490" y="290" as="sourcePoint" />
             <Array as="points">
@@ -34,10 +34,10 @@
         </mxCell>
         <mxCell id="DzccVoENs5ZmWSwi9zG2-43" value="&lt;div&gt;&lt;b&gt;metadata&lt;/b&gt; collected&lt;/div&gt;&lt;div&gt;during execution &lt;br&gt;&lt;/div&gt;&lt;div&gt;and construction of workflows&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;fontColor=#06570B;" vertex="1" connectable="0" parent="DzccVoENs5ZmWSwi9zG2-36">
           <mxGeometry x="-0.5677" relative="1" as="geometry">
-            <mxPoint x="-100" y="469" as="offset" />
+            <mxPoint x="-70" y="491" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DzccVoENs5ZmWSwi9zG2-75" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;fontColor=#06570B;strokeColor=#99FFCC;strokeWidth=8;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.145;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;" edge="1" parent="1" source="DzccVoENs5ZmWSwi9zG2-68" target="DzccVoENs5ZmWSwi9zG2-66">
+        <mxCell id="DzccVoENs5ZmWSwi9zG2-75" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;fontColor=#06570B;strokeColor=#CCCCFF;strokeWidth=8;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.145;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;fillColor=#e1d5e7;" edge="1" parent="1" source="DzccVoENs5ZmWSwi9zG2-68" target="DzccVoENs5ZmWSwi9zG2-66">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="749.9999999999998" as="targetPoint" />
             <mxPoint x="1230" y="340" as="sourcePoint" />
@@ -181,7 +181,7 @@
           <mxGeometry x="280.95" y="775" width="91.27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DzccVoENs5ZmWSwi9zG2-74" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1177.8600000000001" y="520" width="253" height="60" as="geometry" />
+          <mxGeometry x="1177.8600000000001" y="550" width="253" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DzccVoENs5ZmWSwi9zG2-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="DzccVoENs5ZmWSwi9zG2-74">
           <mxGeometry width="253" height="60" as="geometry" />
@@ -258,7 +258,7 @@
         <mxCell id="DzccVoENs5ZmWSwi9zG2-70" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=22;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;dashPattern=1 1;" vertex="1" parent="DzccVoENs5ZmWSwi9zG2-122">
           <mxGeometry x="29.680000000000064" y="15" width="91.27" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DzccVoENs5ZmWSwi9zG2-154" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;fontColor=#06570B;strokeColor=#E5CCFF;strokeWidth=8;" edge="1" parent="1" source="DzccVoENs5ZmWSwi9zG2-153" target="qC28thdIJMezb9HJE6zI-1">
+        <mxCell id="DzccVoENs5ZmWSwi9zG2-154" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;fontColor=#06570B;strokeColor=#99FFCC;strokeWidth=8;" edge="1" parent="1" source="DzccVoENs5ZmWSwi9zG2-153" target="qC28thdIJMezb9HJE6zI-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="107" y="860" />
@@ -268,7 +268,7 @@
         <mxCell id="DzccVoENs5ZmWSwi9zG2-153" value="frontend user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=22;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry y="835" width="30" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="DzccVoENs5ZmWSwi9zG2-164" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;fontColor=#06570B;strokeColor=#E5CCFF;strokeWidth=8;" edge="1" parent="1" source="DzccVoENs5ZmWSwi9zG2-163">
+        <mxCell id="DzccVoENs5ZmWSwi9zG2-164" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;fontColor=#06570B;strokeColor=#99FFCC;strokeWidth=8;" edge="1" parent="1" source="DzccVoENs5ZmWSwi9zG2-163">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="890" as="targetPoint" />
             <Array as="points">
@@ -310,6 +310,11 @@
         <mxCell id="DzccVoENs5ZmWSwi9zG2-180" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;fontColor=#06570B;strokeColor=#99FFCC;strokeWidth=8;fillColor=#d5e8d4;" edge="1" parent="1" source="DzccVoENs5ZmWSwi9zG2-73">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1304" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzccVoENs5ZmWSwi9zG2-271" value="&lt;div&gt;&lt;b&gt;composed workflow &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;can be used&lt;/div&gt;&lt;div&gt;as &lt;b&gt;single-stage workflow&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;fontColor=#06570B;" vertex="1" connectable="0" parent="DzccVoENs5ZmWSwi9zG2-180">
+          <mxGeometry x="-0.2037" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DzccVoENs5ZmWSwi9zG2-185" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -370,7 +375,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DzccVoENs5ZmWSwi9zG2-235" value="other user interfactions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;fontColor=#06570B;" vertex="1" connectable="0" parent="DzccVoENs5ZmWSwi9zG2-233">
+        <mxCell id="DzccVoENs5ZmWSwi9zG2-235" value="continuous automation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;fontColor=#06570B;" vertex="1" connectable="0" parent="DzccVoENs5ZmWSwi9zG2-233">
           <mxGeometry x="-0.1202" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -382,7 +387,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DzccVoENs5ZmWSwi9zG2-237" value="&lt;div&gt;workflow creation &lt;br&gt;&lt;/div&gt;&lt;div&gt;and composition&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;fontColor=#06570B;" vertex="1" connectable="0" parent="DzccVoENs5ZmWSwi9zG2-236">
+        <mxCell id="DzccVoENs5ZmWSwi9zG2-237" value="&lt;div&gt;workflow creation,&lt;/div&gt;&lt;div&gt;&amp;nbsp;composition, execution&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;fontColor=#06570B;" vertex="1" connectable="0" parent="DzccVoENs5ZmWSwi9zG2-236">
           <mxGeometry x="-0.1202" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
