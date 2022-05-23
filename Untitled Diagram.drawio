@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T16:23:36.372Z" agent="5.0 (X11)" etag="LdWZXvkKkny6I7gbhwBa" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T16:38:47.332Z" agent="5.0 (X11)" etag="OH6f-0cVBpoSQQrTJXUp" version="18.1.1" type="github">
   <diagram id="cgcDBANznVIjWBu-qI0g" name="Page-1">
     <mxGraphModel dx="3213" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -463,6 +463,9 @@
               <mxPoint x="-241" y="190" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DzccVoENs5ZmWSwi9zG2-301" value="&lt;div&gt;advantages&lt;/div&gt;&lt;div&gt;of renku&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#06570B;strokeWidth=3;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="62" width="180" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
