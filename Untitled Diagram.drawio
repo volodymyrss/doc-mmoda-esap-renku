@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T15:16:42.542Z" agent="5.0 (X11)" etag="FCz-LDHEsNcaJ7n0Nxyz" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T16:09:41.034Z" agent="5.0 (X11)" etag="mF6XJqwqqtKpBoNZAKyF" version="18.1.1" type="github">
   <diagram id="cgcDBANznVIjWBu-qI0g" name="Page-1">
     <mxGraphModel dx="3213" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -446,6 +446,12 @@
         </mxCell>
         <mxCell id="DzccVoENs5ZmWSwi9zG2-295" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=22;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;dashPattern=1 1;" vertex="1" parent="DzccVoENs5ZmWSwi9zG2-291">
           <mxGeometry y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DzccVoENs5ZmWSwi9zG2-296" value="eosc marketplace" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#06570B;strokeWidth=3;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DzccVoENs5ZmWSwi9zG2-297" value="rucio" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#06570B;strokeWidth=3;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="37.16" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
