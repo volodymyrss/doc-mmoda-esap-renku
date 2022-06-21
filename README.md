@@ -1,1 +1,1 @@
-# doc-mmoda-esap
+# DRAFT: schema of ESAP, Renku, KG, MMODA integration
